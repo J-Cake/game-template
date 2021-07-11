@@ -1,0 +1,5 @@
+node_modules
+game/node_modules
+game/pnpm-lock.yaml
+pnpm-lock.yaml
+build

@@ -1,0 +1,17 @@
+{
+    "name": "game",
+    "version": "1.0.0",
+    "dependencies": {
+        "p5": "latest",
+        "jquery": "latest",
+        "mousetrap": "latest",
+        "lodash": "latest"
+    },
+
+    "devDependencies": {
+        "@types/p5": "latest",
+        "@types/jquery": "latest",
+        "@types/mousetrap": "latest",
+        "@types/lodash": "latest"
+    }
+}
