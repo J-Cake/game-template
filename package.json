@@ -2,8 +2,7 @@
     "name": "game-framework",
     "version": "1.0.0",
     "description": "",
-    "main": "./build/out/server/main.js",
-    "module": "./build/out/server/main.js",
+    "main": "./server.js",
     "type": "module",
     "scripts": {
         "build": "esbuild ./game/main.ts --outfile=./build/target/game.js --platform=browser --bundle --sourcemap",
